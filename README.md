@@ -1,3 +1,17 @@
+> ### This repo has moved
+>
+> Everything here now lives in **[afk-agents/agentic-toolkit](https://github.com/afk-agents/agentic-toolkit)**, merged with the rest of my agent skills into a single collection. The full commit history came along — nothing was squashed or rewritten.
+>
+> Skills are installable individually:
+>
+> ```
+> bunx skills add afk-agents/agentic-toolkit@<skill-name>
+> ```
+>
+> This repo is archived and left in place so existing links keep working.
+
+---
+
 <div align="center">
 
 # 🧪 claude-experiments
